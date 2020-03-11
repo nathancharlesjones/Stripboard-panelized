@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-02T16:16:19Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Breadboard"
+        },
+        "Owner": "Nathan Jones <ncjones6@ncsu.edu>",
+        "Size": {
+            "X": 99.06,
+            "Y": 96.52
+        }
+    }
+}
